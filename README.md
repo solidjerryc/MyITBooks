@@ -1,4 +1,4 @@
-## Collection of some pdf book available in the internet.
+## Collection of some pdf books available in the internet.
 
 ### Programming
 [C++ Primer Plus Sixth Edition](https://nivesh363.files.wordpress.com/2017/04/c-primer.pdf)
