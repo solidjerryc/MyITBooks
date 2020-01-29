@@ -1,5 +1,7 @@
 # Collection of some pdf books available in the internet.
 
+BookDownlader.py is a downloader for this repository. Modify the BASEPATH to some folder where you want to place the ebooks. It will create subfolders automatically. 
+
 ## Programming
 
 ### C++
@@ -21,12 +23,14 @@
 [Learning Python programming](https://anveshitse.files.wordpress.com/2019/01/Learn-Python-Programming_-A-beg-Fabrizio-Romano.pdf)
 
 ### Algorithms
+
 [Algorithms Forth Edition](https://nivesh363.files.wordpress.com/2017/04/algorithms-4th-ed-20.pdf)
 
 ## Docker
+
 [Learning Docker](https://itbook.store/files/9781784397937/learning-docker.pdf)
 
-## Mathamatic
+## Mathematics
 
 [Mathematics for Computer Science](https://nivesh363.files.wordpress.com/2017/04/computer-mathematics.pdf)
 
@@ -108,4 +112,3 @@
 [Pro Spatial with SQL Server 2012](http://3.droppdf.com/files/EZB1X/pro-spatial-with-sql-server-2012.pdf)
 
 [Spatial Databases WITH APPLICATION TO GIS](http://bsolano.com/ecci/claroline/backends/download.php/TGlicm9zX2RlX3RleHRvL1NwYXRpYWxEQnNXaXRoQXBwbGljYXRpb25Ub0dJUy5wZGY=?cidReset=true&cidReq=CI1314&fbclid=IwAR18sSzRl21d2_S1jIyYPu0eDbInSNAXlofmcT6y9GcGMxUzI_lF0On5udc)
-
