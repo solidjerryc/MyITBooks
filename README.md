@@ -26,9 +26,17 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Algorithms Forth Edition](https://nivesh363.files.wordpress.com/2017/04/algorithms-4th-ed-20.pdf)
 
+[The Nature of Code](http://wtf.tw/ref/shiffman.pdf)
+
+### System design
+
+[Designing Distributed Systems](https://www.cbronline.com/wp-content/uploads/dlm_uploads/2018/04/Designing_Distributed_Systems.pdf)
+
 ## Docker
 
 [Learning Docker](https://itbook.store/files/9781784397937/learning-docker.pdf)
+
+[Kubernetes in Action](https://www.yunforum.net/pdf/kubernetes-in-action.pdf)
 
 ## Mathematics
 
@@ -36,7 +44,27 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [MATHEMATICS FOR MACHINE LEARNING](https://mml-book.github.io/book/mml-book.pdf)
 
-## Dada Science
+[Elements of Causal Inference](https://www.oapen.org/download?type=document&docid=1004045)
+
+[Head First Statistics](http://ebooks.blt4spd.com/ebooks/titles/1939/file/Head%20First%20Statistics%20-%20Dawn%20Griffiths.pdf)
+
+[The Calculus Lifesaver](http://www.astronomia.edu.uy/progs/calculo/The_Calculus_Lifesaver.pdf)
+
+[The Calculus Lifesaver (Chinese version)](http://archive.keyllo.com/L-%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%9B%BE%E7%81%B5%E6%95%B0%E5%AD%A6%C2%B7%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%9B%E4%B9%A649-%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BB%E6%9C%AC-%255B%E7%BE%8E%255DA%C2%B7%E7%8F%AD%E7%BA%B3-%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-2010.pdf)
+
+[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)
+
+[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+[Probability and Statistics The Science of Uncertainty 2nd](http://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+
+[Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)
+
+[PROBABILITY THEORY THE LOGIC OF SCIENCE](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
+
+[Programming and Mathematical Thinking](http://webpages.math.luc.edu/~lauve/courses/215-fa2016/Stavely_python_ebook.pdf)
+
+## Data Science
 
 [Python Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 
@@ -52,6 +80,10 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Data Mining Concepts and techniques 3rd](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 
+[Social Media Mining](http://dmml.asu.edu/smm/SMM.pdf)
+
+[R in Action Data Analysis and Graphics with R](http://www.cs.uni.edu/~jacobson/4772/week11/R_in_Action.pdf)
+
 ## Big Data
 
 [Hadoop in Practice 2nd](http://index-of.co.uk/Big-Data-Technologies/Hadoop%20in%20Practice%202nd%20Edition%20%7BPRG%7D.pdf)
@@ -65,11 +97,24 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Hadoop MapReduce Cookbook](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20MapReduce%20Cookbook.pdf)
 
 [Learning Spark](http://index-of.co.uk/Big-Data-Technologies/Learning%20Spark%20%20Lightning-Fast%20Big%20Data%20Analysis%20.pdf)
+
+[Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf)
+
+[Big data analytics with Saprk](http://img.bigdatabugs.com/Apress.Big.Data.Analytics.with.Spark@www.bigDataBugs.com.pdf)
+
+[Apache HBase Reference Guide](https://hbase.apache.org/apache_hbase_reference_guide.pdf)
+
 ## Machine Learning
 
 [Hands-On Machine learning with scikit-learning and tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 
 [Hands-On Machine learning with scikit-learning and tensorflow 2nd](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+
+[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+[A Comprehensive Guide to Machine Learning](http://snasiriany.me/files/ml-book.pdf)
 
 ## GIS
 
