@@ -10,6 +10,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [C++ Primer Plus Sixth Edition](https://nivesh363.files.wordpress.com/2017/04/c-primer.pdf)
 
+[A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf)
+
 ### Java
 
 [Core Java Volume I Fundamentals Ninth Edition](http://www2.nsru.ac.th/tung/java_doc/Core%20Java%20Volume%20I-%20Fundamentals%209th%20Edition-%20Horstmann,%20Cay%20S.%20&%20Cornell,%20Gary_2013.pdf)
@@ -17,6 +19,12 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Effective Java](http://index-of.es/Java/Effective%20Java.pdf)
 
 [The Java® Virtual Machine Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+
+[Design Patterns Java™ Workbook](http://hp.fciencias.unam.mx/~alg/bd/patrones.pdf)
+
+[Learning Computer Programming Using Java with 101 Examples](https://www.cp.eng.chula.ac.th/books/wp-content/uploads/sites/5/2018/01/java101.pdf)
+
+[Teach Yourself Java in 21 Days](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf)
 
 ### Python
 
@@ -90,13 +98,17 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Head First Statistics](http://ebooks.blt4spd.com/ebooks/titles/1939/file/Head%20First%20Statistics%20-%20Dawn%20Griffiths.pdf)
 
-[The Calculus Lifesaver](http://www.astronomia.edu.uy/progs/calculo/The_Calculus_Lifesaver.pdf)
+[The Calculus Lifesaver](http://www.astronomia.edu.uy/progs/calculo/The_Calculus_Lifesaver.pdf)🌟🌟🌟🌟🌟
 
 [The Calculus Lifesaver (Chinese version)](http://archive.keyllo.com/L-%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%9B%BE%E7%81%B5%E6%95%B0%E5%AD%A6%C2%B7%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%9B%E4%B9%A649-%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BB%E6%9C%AC-%255B%E7%BE%8E%255DA%C2%B7%E7%8F%AD%E7%BA%B3-%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-2010.pdf)
 
 [Linear algebra and its applications](http://facultymember.iaukhsh.ac.ir/images/Uploaded_files/[Strang_G.]_Linear_algebra_and_its_applications(4)[5881001].PDF)
 
-[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)
+[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)🌟🌟🌟🌟🌟
+
+[Introduction to Applied Linear Algebra Slides](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
+
+[Statistical Thinking for the 21st Century](http://statsthinking21.org/StatsThinking21.pdf)
 
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
@@ -111,6 +123,10 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Think Stats Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 [Probability](http://www.math.cmu.edu/~omostovy/papers_not_mine/Finance/From_Stochastic_Calculus_to_Mathematical_Finance__The_Shiryaev_Festschrift.pdf)
+
+[Introduction to Probability Models 10th](https://fac.ksu.edu.sa/sites/default/files/introduction-to-probability-model-s.ross-math-cs.blog_.ir_.pdf)
+
+[Introduction to Graph Theory 2nd](http://docshare01.docshare.tips/files/26167/261678089.pdf)
 
 ## Data Science
 
@@ -172,23 +188,51 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Apache HBase Reference Guide](https://hbase.apache.org/apache_hbase_reference_guide.pdf)
 
+[Gnuplot in Action](http://www-bs2.informatik.uni-tuebingen.de/services/nilse/books/GnuplotinAction.pdf)
+
 ## Machine Learning
 
 [Neural Networks and Learning Machines 3rd](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
 
 [Hands-On Machine learning with scikit-learning and tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 
+[Machine Learning in Action](http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf)
+
+[Mahout in Action](http://www.scholat.com/teamwork/teamworkdownloadscholar.html?id=646&teamId=316)
+
+[Pattern Classification by Richard O. Duda](https://github.com/dazzz/patrec2015/raw/master/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf)
+
+[PATTERN RECOGNITION 2nd](http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book3.pdf)
+
 [Hands-On Machine learning with scikit-learning and tensorflow 2nd](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
 
 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)🌟🌟🌟🌟🌟
 
 [A Comprehensive Guide to Machine Learning](http://snasiriany.me/files/ml-book.pdf)
 
-[Deep Learning (by Ian Goodfellow, et al)](http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf)
+[Python Machine Learning Second Edition](http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf)
+
+[Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)
+
+[Machine Learning with R](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf)
+
+[INTRODUCTION TO MACHINE LEARNING (old)](https://ai.stanford.edu/~nilsson/MLBOOK.pdf)
+
+[Deep Learning (by Ian Goodfellow, et al)](http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf)🌟🌟🌟🌟🌟
+
+[Machine learning: An algrithmic perspective](http://dai.fmph.uniba.sk/courses/ICI/marsland.ml-alg-perspect.09.pdf)
 
 [The Nature of Statistic Learning Theory 2nd](https://statisticalsupportandresearch.files.wordpress.com/2017/05/vladimir-vapnik-the-nature-of-statistical-learning-springer-2010.pdf)
+
+[Artificial Intelligence A Modern Approach 3rd](https://faculty.psau.edu.sa/filedownload/doc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf)
+
+[Algorithms of the Intelligent Web](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20of%20the%20Intelligent%20Web%20%5BMarmanis%20%26%20Babenko%202009-07-08%5D.pdf)
+
+[AI Techniques for Game Programming](http://www.cs.uni.edu/~schafer/4620/readings/Ai%20Techniques%20For%20Game%20Programming.pdf)
+
+[Neural Networks for Pattern Recognition](http://home.elka.pw.edu.pl/~ptrojane/books/Bishop%20-%20Neural%20Networks%20for%20Pattern%20Recognition.pdf)
 
 ### Natural Language Processing
 
@@ -200,6 +244,10 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Spoken Language Processing: A Guide to Theory, Algorithm, and System Development](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Spoken%20Language%20Processing_%20A%20Guide%20to%20Theory%2C%20Algorithm%2C%20and%20System%20Development%20%5BHuang%2C%20Acero%20%26%20Hon%202001-05-05%5D.pdf)
 
+[Natural Language Processing with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
+
+[Python 3 Text Processing with NLTK 3 Cookbook](https://pdfs.semanticscholar.org/d0eb/f1c505b0d44b3652d1e2105b9e3a0e45315d.pdf)
+
 ## GIS
 
 [PyQGIS developer cookbook Release testing](https://docs.qgis.org/3.4/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf)
@@ -210,11 +258,19 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [PostGIS in action](http://2.droppdf.com/files/2KccP/postgis-in-action.pdf)
 
+[PostGIS 3.0 Documentation](https://postgis.net/stuff/postgis-3.0.pdf)
+
+[PostGIS Cookbook 1st](http://file.allitebooks.com/20190222/PostGIS%20Cookbook.pdf)
+
+[MASTERING POSTGIS](http://terragis.net/docs/other/MASTERING_POSTGIS.pdf)
+
 [QGIS Python Programming Cookbook](http://www.green-forums.info/greenlib/geolibrary/Lawhead%20J/QGIS%20Python%20Programming%20Cookbook.%2020%20%2852%29/QGIS%20Python%20Programming%20Cookboo%20-%20Lawhead%20J.pdf)
 
 [QGIS Training Manual Release testing](https://docs.qgis.org/testing/pdf/en/QGIS-testing-QGISTrainingManual-en.pdf)
 
 [QGIS User Guide Release testing](https://docs.qgis.org/testing/pdf/en/QGIS-testing-UserGuide-en.pdf)
+
+[ArcPy and ArcGIS – Geospatial Analysis with Python](http://www2.arinigeo.com/wp-content/uploads/2016/05/ArcPy-and-ArcGIS-Geospatial-Analysis-with-Python-by-Silas-Toms.pdf)
 
 ## Database
 
@@ -227,6 +283,10 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Mastering PostgreSQL 10](https://f.usemind.org/files/b/1/1151_UseMind.ORG_mastering-postgresql-10_2018.pdf)
 
 [PostgreSQL: Up and Running THIRD EDITION](https://f.usemind.org/files/b/1/1154_UseMind.ORG_en-postgresql-up-and-running-3rd-edition_2018.pdf)
+
+[PostgreSQL High Availability Cookbook 2nd](http://download.blackball.lv/data/library/PostgreSQL_High_Availability_Cookbook_%282017%29.pdf)
+
+[PostgreSQL 9 Admin Cookbook](http://download.chekiang.info/blog/PostgreSQL-9-Admin-Cookbook.pdf)
 
 [High Performance MySQL Second Edition ***!old!***](https://www.it.iitb.ac.in/frg/wiki/images/b/b0/OReilly.High.Performance.MySQL.Optimization.Backups.Replication.And.More.2nd.Edition.Jun.2008.ISBN.0596101716.pdf)
 
