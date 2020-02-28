@@ -88,7 +88,7 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Kubernetes in Action](https://www.yunforum.net/pdf/kubernetes-in-action.pdf)
 
-## Mathematics
+## Mathematics & Statistics
 
 [Mathematics for Computer Science](https://nivesh363.files.wordpress.com/2017/04/computer-mathematics.pdf)
 
@@ -168,6 +168,16 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Sentiment Analysis: Mining Opinions, Sentiments,and Emotions](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)
 
+[Applied time series analysis (Chinese) 应用时间序列分析](http://staff.ustc.edu.cn/~jbs/ts.pdf)
+
+[Applied time series analysis: Course material of Peking University (Chinese)](http://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsa.pdf) 👉[Web page](http://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsanotes/html/_atsanotes/index.html)
+
+[Introduction to Modern Time Series Analysis](http://rupertstudies.weebly.com/uploads/9/5/8/4/9584887/introduction_to_modern_time_series_analysis-kirchgssner_and_wolters_springer_2007.pdf)
+
+[Introduction to Time Series and Forecasting, 2nd](https://www.researchgate.net/profile/Paul_Louangrath/post/Are_there_good_books_resources_on_stochastic_volatility/attachment/59d6387cc49f478072ea56e6/AS%3A273701147217926%401442266846239/download/2002-Brockwell-Introduction+Time+Series+and+Forecasting.pdf)
+
+[Time Series Analysis and Its Applications: With R Examples 3rd](https://www.researchgate.net/profile/Paul_Louangrath/post/Are_there_good_books_resources_on_stochastic_volatility/attachment/59d6387cc49f478072ea56e7/AS%3A273701147217937%401442266847164/download/Time+Series+Analysis+and+Its+Application+with+R+examples.pdf)
+
 ## Big Data
 
 [Hadoop in Practice 2nd](http://index-of.co.uk/Big-Data-Technologies/Hadoop%20in%20Practice%202nd%20Edition%20%7BPRG%7D.pdf)
@@ -189,6 +199,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Apache HBase Reference Guide](https://hbase.apache.org/apache_hbase_reference_guide.pdf)
 
 [Gnuplot in Action](http://www-bs2.informatik.uni-tuebingen.de/services/nilse/books/GnuplotinAction.pdf)
+
+[Programming Hive](https://www.gocit.vn/files/Oreilly.Programming.Hive-www.gocit.vn.pdf)
 
 ## Machine Learning
 
@@ -250,6 +262,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 ## GIS
 
+[Mastering ArcGIS 7th](https://dl.gisman.ir/Ebooks/Free/2014/Mastering_ArcGIS_www.GISman.ir.pdf)
+
 [PyQGIS developer cookbook Release testing](https://docs.qgis.org/3.4/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf)
 
 [PyQGIS developer cookbook Release testing Jan 26, 2020](https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf)
@@ -271,6 +285,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [QGIS User Guide Release testing](https://docs.qgis.org/testing/pdf/en/QGIS-testing-UserGuide-en.pdf)
 
 [ArcPy and ArcGIS – Geospatial Analysis with Python](http://www2.arinigeo.com/wp-content/uploads/2016/05/ArcPy-and-ArcGIS-Geospatial-Analysis-with-Python-by-Silas-Toms.pdf)
+
+[Learning Geospatial Analysis with Python 3rd](http://dl.booktolearn.com/ebooks2/computer/python/9781789959277_Learning_Geospatial_Analysis_with_Python_376c.pdf)
 
 ## Database
 
