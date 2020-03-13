@@ -92,7 +92,7 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [Mathematics for Computer Science](https://nivesh363.files.wordpress.com/2017/04/computer-mathematics.pdf)
 
-[MATHEMATICS FOR MACHINE LEARNING](https://mml-book.github.io/book/mml-book.pdf)
+[MATHEMATICS FOR MACHINE LEARNING](https://mml-book.github.io/book/mml-book.pdf)🌟🌟🌟🌟🌟
 
 [Elements of Causal Inference](https://www.oapen.org/download?type=document&docid=1004045)
 
@@ -127,6 +127,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [Introduction to Probability Models 10th](https://fac.ksu.edu.sa/sites/default/files/introduction-to-probability-model-s.ross-math-cs.blog_.ir_.pdf)
 
 [Introduction to Graph Theory 2nd](http://docshare01.docshare.tips/files/26167/261678089.pdf)
+
+[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)🌟🌟🌟🌟
 
 ## Data Science
 
@@ -287,6 +289,12 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [ArcPy and ArcGIS – Geospatial Analysis with Python](http://www2.arinigeo.com/wp-content/uploads/2016/05/ArcPy-and-ArcGIS-Geospatial-Analysis-with-Python-by-Silas-Toms.pdf)
 
 [Learning Geospatial Analysis with Python 3rd](http://dl.booktolearn.com/ebooks2/computer/python/9781789959277_Learning_Geospatial_Analysis_with_Python_376c.pdf)
+
+[Principles of GIS](https://webapps.itc.utwente.nl/librarywww/papers_2009/general/principlesgis.pdf)
+
+[Handbook on geographic information systems and digital mapping](https://unstats.un.org/unsd/publication/SeriesF/SeriesF_79E.pdf)
+
+[The core of GIScience a systems-based approach](http://www.charim.net/sites/default/files/handbook/datamanagement/3/3.3/The%20core%20of%20GIScience%2C%20a%20system%20-based%20approach.pdf)
 
 ## Database
 
