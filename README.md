@@ -296,6 +296,10 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [The core of GIScience a systems-based approach](http://www.charim.net/sites/default/files/handbook/datamanagement/3/3.3/The%20core%20of%20GIScience%2C%20a%20system%20-based%20approach.pdf)
 
+[Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf)
+
+[Handbook of Spatial Statistics](http://carlosreynoso.com.ar/archivos/territorio/Gelfand-Handbook-of-Spatial-Statistics.pdf)
+
 ## Database
 
 [PostgreSQL 11.6 Documentation](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-A4.pdf)
@@ -311,6 +315,8 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 [PostgreSQL High Availability Cookbook 2nd](http://download.blackball.lv/data/library/PostgreSQL_High_Availability_Cookbook_%282017%29.pdf)
 
 [PostgreSQL 9 Admin Cookbook](http://download.chekiang.info/blog/PostgreSQL-9-Admin-Cookbook.pdf)
+
+[PostgreSQL 10 High Performance (2018) Expert techniques for query optimization, high availability, and efficient database maintenance.pdf](https://intranet.unr.edu.ar/documents/71612/86247/PostgreSQL+10+High+Performance+%282018%29_+Expert+techniques+for+query+optimization%2C+high+availability%2C+and+efficient+database+maintenance.pdf)
 
 [High Performance MySQL Second Edition ***!old!***](https://www.it.iitb.ac.in/frg/wiki/images/b/b0/OReilly.High.Performance.MySQL.Optimization.Backups.Replication.And.More.2nd.Edition.Jun.2008.ISBN.0596101716.pdf)
 
