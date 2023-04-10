@@ -102,7 +102,7 @@ BookDownlader.py is a downloader for this repository. Modify the BASEPATH to som
 
 [The Calculus Lifesaver (Chinese version)](http://archive.keyllo.com/L-%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%9B%BE%E7%81%B5%E6%95%B0%E5%AD%A6%C2%B7%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%9B%E4%B9%A649-%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BB%E6%9C%AC-%255B%E7%BE%8E%255DA%C2%B7%E7%8F%AD%E7%BA%B3-%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-2010.pdf)
 
-[Linear algebra and its applications](http://facultymember.iaukhsh.ac.ir/images/Uploaded_files/[Strang_G.]_Linear_algebra_and_its_applications(4)[5881001].PDF)
+[Linear algebra and its applications](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf)
 
 [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)🌟🌟🌟🌟🌟
 
